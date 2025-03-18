@@ -5,3 +5,9 @@ body{
 h1{
     color: red;
 }
+    .big{
+        background-color: yellow;
+    }
+        .small{
+            background-color: green;
+        }
